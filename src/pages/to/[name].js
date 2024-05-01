@@ -166,6 +166,13 @@ function Home() {
                     <Text pt="10" fontFamily="Alkatra" fontWeight={700}>
                       Gusti Ngurah Indra Yuda
                     </Text>
+                    <Text fontFamily="Alkatra">Putri Dari</Text>
+                    <Text fontFamily="Alkatra" fontWeight={700}>
+                      Gusti Made Mawa
+                    </Text>
+                    <Text fontFamily="Alkatra" fontWeight={700}>
+                      Jero Wayan Sekar
+                    </Text>
                     <Link href="https://www.instagram.com/yogi_pratamaa16">
                       <IconButton borderRadius="20px">
                         <AiOutlineInstagram size={30} />
@@ -188,7 +195,14 @@ function Home() {
                     <Text pt="10" fontFamily="Alkatra" fontWeight={700}>
                       Ni Putu Ayu Cahyani
                     </Text>
-                    <Link href="https://www.instagram.com/anidiwani">
+                    <Text fontFamily="Alkatra">Putri Dari</Text>
+                    <Text fontFamily="Alkatra" fontWeight={700}>
+                      I Wayan Wisnu Ardana
+                    </Text>
+                    <Text fontFamily="Alkatra" fontWeight={700}>
+                      Ni Putu Widiani
+                    </Text>
+                    <Link href="https://www.instagram.com/ayucahyanii_">
                       <IconButton borderRadius="20px">
                         <AiOutlineInstagram size={30} />
                       </IconButton>
@@ -256,7 +270,7 @@ function Home() {
                 <Text mt="10" fontFamily="Kaushan Script" fontSize="1.5em">
                   Tegal Tugu, Kec. Gianyar, Kab. Gianyar
                 </Text>
-                <Link href="https://goo.gl/maps/bzn3KZep3Kn4UNzg8">
+                <Link href="https://maps.app.goo.gl/HezfBmJ3HBiAGugV6">
                   <Button
                     mt="5"
                     bg="#4b3f3b"

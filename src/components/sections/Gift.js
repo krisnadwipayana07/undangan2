@@ -115,7 +115,7 @@ export default function Gift() {
             80515
           </Text>
           <Box display="flex" justifyContent="center">
-            <Link href="https://goo.gl/maps/bzn3KZep3Kn4UNzg8">
+            <Link href="https://maps.app.goo.gl/HezfBmJ3HBiAGugV6">
               <Button
                 mt="5"
                 variant="outline"
