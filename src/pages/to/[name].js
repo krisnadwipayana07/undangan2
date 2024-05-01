@@ -166,7 +166,7 @@ function Home() {
                     <Text pt="10" fontFamily="Alkatra" fontWeight={700}>
                       Gusti Ngurah Indra Yuda
                     </Text>
-                    <Text fontFamily="Alkatra">Putri Dari</Text>
+                    <Text fontFamily="Alkatra">Putra Dari</Text>
                     <Text fontFamily="Alkatra" fontWeight={700}>
                       Gusti Made Mawa
                     </Text>
