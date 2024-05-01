@@ -64,7 +64,7 @@ export default function Gift() {
         </Box>
       </Box>
       <Collapse in={openGift} animateOpacity>
-        <Box
+        {/* <Box
           my="10"
           mx="7"
           bg="chocolate"
@@ -96,7 +96,7 @@ export default function Gift() {
               {hasCopied ? "Tersalin" : "Salin Norek"}
             </Button>
           </Box>
-        </Box>
+        </Box> */}
         <Box
           my="10"
           mx="7"
