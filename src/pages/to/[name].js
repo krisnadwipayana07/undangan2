@@ -173,7 +173,7 @@ function Home() {
                     <Text fontFamily="Alkatra" fontWeight={700}>
                       Jero Wayan Sekar
                     </Text>
-                    <Link href="https://www.instagram.com/yogi_pratamaa16">
+                    <Link href="https://www.instagram.com/ind_yuda?igsh=MjNlemR4bmd4OXJx">
                       <IconButton borderRadius="20px">
                         <AiOutlineInstagram size={30} />
                       </IconButton>
