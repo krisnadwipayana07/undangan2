@@ -146,7 +146,7 @@ function Home() {
                 <Text fontFamily="Philosopher">(Atharvaveda : VI.122.3)</Text>
               </Stack>
             </Box>
-            <Box py="10">
+            <Box py="10" bgColor="#ffeecf">
               <Text textAlign="center" fontFamily="Kaushan Script">
                 Sang Mempelai
               </Text>
