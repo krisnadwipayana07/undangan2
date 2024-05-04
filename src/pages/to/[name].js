@@ -272,7 +272,7 @@ function Home() {
                                         >
                                             Ni Putu Widiani
                                         </Text>
-                                        <Link href="https://www.instagram.com/ayucahyanii_">
+                                        <Link href="https://www.instagram.com/ayucahyanii___?igsh=MXBsdDRzNWY1MGY2NQ%3D%3D">
                                             <IconButton borderRadius="20px">
                                                 <AiOutlineInstagram size={30} />
                                             </IconButton>
